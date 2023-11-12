@@ -1,4 +1,4 @@
 This is Stashing Test 2A
-
+This is master test text
 
 ===========================
