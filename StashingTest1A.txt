@@ -1,4 +1,5 @@
 This is Stashing Test 1A
 This is master test text
+This is new branch from deattached head based on SHA = f7f1319
 
 ---------------------------
