@@ -4,6 +4,5 @@ I have stashed workspace and modified file in master/main HEAD.
 More work blah blah
 Move on ABBA
 Eagle ABBA
-Standby Police
-FuckAss Asshole
+GitHub Fetch experiments.
 ---------------------------
